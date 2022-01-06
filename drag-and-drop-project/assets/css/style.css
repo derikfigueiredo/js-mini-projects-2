@@ -69,11 +69,15 @@ body {
   transition: 400ms;
 }
 
+.highlight {
+  background-color: #FD951F08;
+}
+
 .is-dragging {
   cursor: move;
   opacity: 0.3;
 }
-
+ 
 .over {
   background-color: #4cd13711;
 }
